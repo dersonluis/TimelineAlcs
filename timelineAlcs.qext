@@ -1,0 +1,8 @@
+{
+	"name" : "TimelineAlcs",
+	"description" : "Gráfico Timeline",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+	"author": "Anderson Luís"
+}
